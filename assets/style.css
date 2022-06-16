@@ -1,0 +1,40 @@
+body {
+    color: white;
+    background-color: rgb(56, 53, 52);
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.subtrair {
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    border:2px solid rgb(117, 91, 91) ;
+}
+
+button {
+    background-color: chartreuse;
+    width: 30px;
+    height: 30px;
+    border: 2px solid rgb(149, 228, 149);
+    border-radius:50%;
+}
+.font {
+    font-size: 30px;
+}
+.desenvolvido {
+    font-size: 14px;
+    margin-top:450px ;
+}
+
+
+.blue{
+    color: blue;
+}
+.red {
+    color: red;
+}
+
